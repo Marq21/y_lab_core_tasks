@@ -1,9 +1,5 @@
 package task1;
 
-/*
-1. Заполните двумерный массив случайным числами и выведите максимальное, минимальное и среднее значение
-*/
-
 public class firstTaskMain {
 
     public static void main(String[] args) {
